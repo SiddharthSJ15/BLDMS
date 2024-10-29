@@ -1,9 +1,5 @@
 # Blood Bank Management System
 
-## _A Simple Solution for Blood Donation Management_
-
-![Blood Bank Management System](https://example.com/image.png) <!-- Replace with your own image link -->
-
 ## Overview
 
 The Blood Bank Management System is a straightforward web application aimed at managing blood donations and requests efficiently. This project facilitates the tracking of blood inventory, donor management, and patient blood requests for hospitals.
